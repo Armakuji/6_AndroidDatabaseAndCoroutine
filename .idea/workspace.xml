@@ -72,7 +72,6 @@
       <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/app/src/main/java/com/example/android/dessertclicker/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DessertClicker-Starter/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DessertClicker-Starter/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            <state relative-caret-position="671">
+              <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
               <folding>
                 <element signature="e#679#1076#0" expanded="true" />
               </folding>
@@ -116,8 +115,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="78" column="76" selection-start-line="78" selection-start-column="76" selection-end-line="78" selection-end-column="76" />
+            <state relative-caret-position="578">
+              <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -137,8 +136,8 @@
         <option value="$PROJECT_DIR$/app/src/androidTest/java/com/example/android/trackmysleepquality/SleepDatabaseTest.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt" />
       </list>
     </option>
@@ -397,7 +396,7 @@
     <frame x="-5" y="0" width="1291" height="1406" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32927817" />
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.32927817" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -412,7 +411,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3299373" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3299373" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.3299373" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
@@ -505,14 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="78" column="76" selection-start-line="78" selection-start-column="76" selection-end-line="78" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/Util.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="654">
@@ -528,10 +519,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_sleep_tracker.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerViewModel.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+        <state relative-caret-position="671">
+          <caret line="77" column="16" selection-start-line="77" selection-start-column="16" selection-end-line="77" selection-end-column="16" />
           <folding>
             <element signature="e#679#1076#0" expanded="true" />
           </folding>
