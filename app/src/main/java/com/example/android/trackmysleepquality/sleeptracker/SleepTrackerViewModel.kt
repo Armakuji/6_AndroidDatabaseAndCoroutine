@@ -62,6 +62,7 @@ class SleepTrackerViewModel(
         uiScope.launch {
             val newNight = SleepNight()
             insert(newNight)
+            tonight.value = getTonightFromDatabase()
         }
     }
 
@@ -88,6 +89,18 @@ class SleepTrackerViewModel(
     override fun onCleared() {
         super.onCleared()
         viewModelJob.cancel()
+    }
+
+    fun onClear(){
+        uiScope.launch {
+            clear()
+            tonight.value = null
+        }
+    }
+    suspend fun clear() {
+        withContext(Dispatchers.IO) {
+            database.clear()
+        }
     }
 }
 
